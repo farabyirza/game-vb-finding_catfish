@@ -1,0 +1,105 @@
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.exe.config
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.exe
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.pdb
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.xml
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.vbproj.ResolveComReference.cache
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter_Game.Form1.resources
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter_Game.Resources.resources
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.vbproj.GenerateResource.Cache
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.exe
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.xml
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.pdb
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.exe.config
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.vbproj.ResolveComReference.cache
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.exe
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.xml
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.pdb
+E:\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.exe.config
+E:\SpaceShooter Game\SpaceShooter Game\obj\Debug\Interop.WMPLib.dll
+E:\SpaceShooter Game\SpaceShooter Game\obj\Debug\AxInterop.WMPLib.dll
+E:\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.vbproj.ResolveComReference.cache
+E:\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.exe
+E:\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.xml
+E:\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.pdb
+E:\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.exe
+E:\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.pdb
+E:\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.xml
+E:\SpaceShooter Game\SpaceShooter Game\bin\Debug\Interop.WMPLib.dll
+E:\SpaceShooter Game\SpaceShooter Game\bin\Debug\AxInterop.WMPLib.dll
+E:\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter_Game.Form1.resources
+E:\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter_Game.Resources.resources
+E:\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.vbproj.GenerateResource.Cache
+E:\finding_catfish\finding_catfish\obj\Debug\Interop.WMPLib.dll
+E:\finding_catfish\finding_catfish\obj\Debug\AxInterop.WMPLib.dll
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.vbproj.ResolveComReference.cache
+E:\finding_catfish\finding_catfish\bin\Debug\Interop.WMPLib.dll
+E:\finding_catfish\finding_catfish\bin\Debug\AxInterop.WMPLib.dll
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.vbproj.GenerateResource.Cache
+E:\finding_catfish\finding_catfish\bin\Debug\finding_catfish.exe.config
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.exe
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.xml
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.pdb
+E:\finding_catfish\finding_catfish\bin\Debug\finding_catfish.exe
+E:\finding_catfish\finding_catfish\bin\Debug\finding_catfish.pdb
+E:\finding_catfish\finding_catfish\bin\Debug\finding_catfish.xml
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.Form1.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.Resources.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.quiz1.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.quiz2.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.quiz3.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.quiz_score.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening2.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening3.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening4.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening5.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.open.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening6.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening7.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening8.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening9.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.regist.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.score.resources
+E:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening10.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.vbprojResolveAssemblyReference.cache
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.xml
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.pdb
+G:\finding_catfish\finding_catfish\bin\Debug\finding_catfish.exe.config
+G:\finding_catfish\finding_catfish\obj\Debug\Interop.WMPLib.dll
+G:\finding_catfish\finding_catfish\obj\Debug\AxInterop.WMPLib.dll
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.vbproj.ResolveComReference.cache
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.Form1.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.Resources.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.open.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening10.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening2.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening3.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening4.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening5.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening6.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening7.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening8.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.opening9.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.quiz1.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.quiz2.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.quiz3.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.quiz_score.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.score.resources
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.vbproj.GenerateResource.Cache
+G:\finding_catfish\finding_catfish\bin\Debug\finding_catfish.exe
+G:\finding_catfish\finding_catfish\bin\Debug\finding_catfish.pdb
+G:\finding_catfish\finding_catfish\bin\Debug\finding_catfish.xml
+G:\finding_catfish\finding_catfish\bin\Debug\Interop.WMPLib.dll
+G:\finding_catfish\finding_catfish\bin\Debug\AxInterop.WMPLib.dll
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.exe
+G:\finding_catfish\finding_catfish\bin\Debug\finding_catfish.exe.manifest
+G:\finding_catfish\finding_catfish\bin\Debug\finding_catfish.application
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.exe.manifest
+G:\finding_catfish\finding_catfish\obj\Debug\finding_catfish.application
